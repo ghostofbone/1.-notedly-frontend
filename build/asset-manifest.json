@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1.-notedly-frontend/static/css/main.0b2e6826.css",
+    "main.js": "/1.-notedly-frontend/static/js/main.0ac870b1.js",
+    "index.html": "/1.-notedly-frontend/index.html",
+    "main.0b2e6826.css.map": "/1.-notedly-frontend/static/css/main.0b2e6826.css.map",
+    "main.0ac870b1.js.map": "/1.-notedly-frontend/static/js/main.0ac870b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b2e6826.css",
+    "static/js/main.0ac870b1.js"
+  ]
+}
